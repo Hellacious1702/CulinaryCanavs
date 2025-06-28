@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://github.com/Hellacious1702/CulinaryCanavs",
+  "homepage": "https://Hellacious1702.github.io/CulinaryCanavs",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
