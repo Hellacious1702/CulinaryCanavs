@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Primary Warm Accent */
+  --color-primary: #F97316; /* orange-500 */
+
+  /* Secondary Fresh Accent */
+  --color-secondary: #10B981; /* emerald-500 */
+
+  /* Background / Base */
+  --color-background: ##F7F7F7; /* gray-50 */
+  --color-white: #FFFFFF;
+  --color-grey: #F7F7F7;
+
+  /* Text Colors */
+  --color-text-dark: #1F2937; /* gray-800 */
+  --color-text-muted: #6B7280; /* gray-500 */
+
+  /* Subtle Divider/Border */
+  --color-border: #E5E7EB; /* gray-200 */
+}
