@@ -2,7 +2,8 @@
 
 ### A Dynamic Recipe Web Application showcasing Modern Front-End Development with ReactJS & Tailwind CSS
 
-![Culinary Canvas Screenshot Placeholder](https://ibb.co/C3NKtSnq)
+![Culinary Canvas Screenshot Placeholder](https://via.placeholder.com/800x450?text=Culinary+Canvas+Screenshot)
+*Replace this placeholder with an actual screenshot or GIF of your application.*
 
 ## Table of Contents
 
