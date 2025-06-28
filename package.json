@@ -3,12 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Hellacious1702.github.io/CulinaryCanavs",
+  "homepage": "https://hellacious1702.github.io/CulinaryCanvas",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "postbuild": "touch dist/.nojekyll",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
